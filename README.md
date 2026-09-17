@@ -1,7 +1,5 @@
 Hi there, I'm Sneha 👋
-
 Full-Stack Developer | Cyber Security Enthusiast | AI Builder
-
 About Me
 
 I'm a Computer Science (Cyber Security) student at KL University, driven by a simple idea: technology should solve real problems for real people. I build full-stack applications and explore how AI can make systems smarter, safer, and more human-centered.
